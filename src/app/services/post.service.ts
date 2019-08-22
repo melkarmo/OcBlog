@@ -42,4 +42,14 @@ export class PostService {
     this.emitPosts();
   }
 
+  like(i) {
+    this.posts[i].loveIts += 1;
+    this.emitPosts();
+  }
+
+  dislike(i) {
+    this.posts[i].loveIts -= 1;
+    this.emitPosts();
+  }
+
 }
