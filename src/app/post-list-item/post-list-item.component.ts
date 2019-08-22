@@ -25,4 +25,8 @@ export class PostListItemComponent implements OnInit {
     this.postService.dislike(this.index);
   }
 
+  delete(){
+    this.postService.deletePost(this.index);
+  }
+
 }

@@ -42,6 +42,11 @@ export class PostService {
     this.emitPosts();
   }
 
+  deletePost(i){
+    this.posts.splice(i, 1);
+    this.emitPosts();
+  }
+
   like(i) {
     this.posts[i].loveIts += 1;
     this.emitPosts();
