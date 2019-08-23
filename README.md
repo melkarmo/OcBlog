@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.4.
 
-This work is part of the online course [Développez des applications Web avec Angular](https://openclassrooms.com/fr/courses/4668271-developpez-des-applications-web-avec-angular) .
+*This work is part of the online course [Développez des applications Web avec Angular](https://openclassrooms.com/fr/courses/4668271-developpez-des-applications-web-avec-angular) .*
 
 ## Screenshots
 
