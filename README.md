@@ -2,6 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.4.
 
+This work is part of the online course [Développez des applications Web avec Angular](https://openclassrooms.com/fr/courses/4668271-developpez-des-applications-web-avec-angular) .
+
+## Screenshots
+
+![Capture](https://user-images.githubusercontent.com/35910546/63587264-ca8ba000-c5a3-11e9-9f19-c94d40f4242e.PNG)
+![Capture2](https://user-images.githubusercontent.com/35910546/63587267-cb243680-c5a3-11e9-8135-5a2024cd4d5d.PNG)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
