@@ -6,8 +6,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Screenshots
 
-![Capture](https://user-images.githubusercontent.com/35910546/63587264-ca8ba000-c5a3-11e9-9f19-c94d40f4242e.PNG)
-![Capture2](https://user-images.githubusercontent.com/35910546/63587267-cb243680-c5a3-11e9-8135-5a2024cd4d5d.PNG)
+![Capture](https://raw.githubusercontent.com/melkarmo/OcBlog/master/screenshots/screenshot1.PNG)
+![Capture2](https://raw.githubusercontent.com/melkarmo/OcBlog/master/screenshots/screenshot2.PNG)
 
 ## Development server
 
